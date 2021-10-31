@@ -1,0 +1,2331 @@
+.login{
+    margin-bottom: 30px ;
+margin-left: 400px;
+vertical-align: 10px;
+}
+.signup{
+    margin-bottom: 30px ;
+margin-left: 10px;
+vertical-align: 10px;
+width: 48px;
+height: 48px;
+}
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+body{
+    background-color: lightslategray;
+}
+.header{
+    background-color:lightgrey;
+    width: 2010px;
+    height: 170px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    position: fixed;
+    top:0;
+    z-index:100;
+}
+.img{
+    background-color: lightslategrey;
+    }
+.headlist{
+    display: inline;
+    vertical-align: 60px;
+margin-left: 340px;
+color: black;
+font-weight: bolder;
+font-family: sans-serif;
+font-size: 25px;
+
+}
+.headlist:hover{
+    color: mediumslateblue;
+    cursor: pointer;
+}
+.logo{
+    height: 120px;
+    width: 120px;
+    padding: 20px;
+}
+
+.firstimg{
+    width: 2010px;
+    height: 1000px;
+    border-bottom-left-radius: 310px;
+    border-bottom-right-radius: 310px;
+    }
+.secondHalf{
+width: 2010px;
+height: 1000px;
+background-color: lightseagreen;
+border-top-left-radius: 310px;
+border-top-right-radius: 310px;
+background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+background-size: cover;
+   }
+
+.codbod{
+display: flex;
+    margin-left: 500px;
+ flex-direction: row;
+ 
+}
+.codbod2{
+    display: flex;
+        margin-left: 500px;
+     flex-direction: row;
+     margin-top: 20px;
+    }
+hr{
+    width: 320px;
+margin-right: 860px;    
+}
+.codw{
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+font-size: 45px;
+letter-spacing: 34px;
+margin-left: 440px;
+font-weight: lighter;
+vertical-align: 12px;
+color:lightseagreen ;
+}
+
+h1:hover{
+    color: lightslategray;
+    cursor: pointer;
+}
+.thirdhalf{
+    width: 2010px;  
+    height: 790px;
+    background-color: cadetblue;
+margin-top: 30px;
+border-top-right-radius: 80px;
+border-top-left-radius: 40px;
+background-image: url(imageedit_7_2461033176.png);
+background-size: cover;
+color: cornsilk;
+font-size: 30px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.textth{
+    display: flex;
+    color: cornsilk;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 510x;
+    font-size: xx-large;
+    flex-flow: row;
+    -ms-flex-align: center;
+    margin-top: 100px;
+    margin-right: 90px;
+}
+.txt{
+    display: flex;
+    color: cornsilk;
+    font-weight: 900;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 390px;
+    font-size: xx-large;
+    flex-direction: column;
+}
+
+.fourthhalf{
+margin-top: 30px;  
+display: flex;
+    flex-direction: row;
+background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+background-size: cover;    
+width: 1430px;
+    height: 530px;
+    margin-left: 330px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.letcon{
+margin-left: 890px;
+font-size: 45px;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+border: 2px solid black;
+display: inline-block;
+background-color: black;
+height: 52px;
+border-top-left-radius: 20px;
+border-top-right-radius: 20px;
+color: lavender;
+font-weight:bolder
+}
+.fb{
+    margin-top: 70px;
+    margin-left: 104px;
+    width: 320px;
+    height: 380px ;
+    background-color: lightsteelblue;
+background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+background-size: cover;
+border-bottom-left-radius: 40px;
+border-bottom-right-radius: 40px;
+border-top-left-radius: 14px;
+border-top-right-radius: 14px;
+}
+.fb:hover{
+  
+    width: 520px;
+    height: 580px ;
+    background-image: url(cooltext396128069271633.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+background-color:black;
+animation-name: igram;
+transition-delay: 2s;
+transition-property: width, height;
+transition-duration: 2s;
+transition-delay: 0s;
+
+}
+
+.ig{
+    margin-top: 70px;
+    margin-left: 544px;
+    width: 320px;
+    height: 380px ;
+    background-color: lightsteelblue;
+background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+background-size: cover;
+border-bottom-left-radius: 40px;
+border-bottom-right-radius: 40px;
+border-top-left-radius: 14px;
+border-top-right-radius: 14px;
+
+}
+.ig:hover{
+    width: 520px;
+    height: 580px ;
+    background-image: url(cooltext396128570894676.png);
+    background-size: 90%;
+    background-repeat: no-repeat;
+background-color:black;
+animation-name: igram;
+transition-delay: 2s;
+transition-property: width, height;
+transition-duration: 2s;
+transition-delay: 0s;
+
+}
+.last{
+
+    width: 230px;
+    background-color: #333333;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    position: fixed;
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+@keyframes igram {
+    
+}
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 335px) 
+  { 
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    .fourthhalf{
+    margin-top: 30px;  
+    display: flex;
+    flex-direction: column;
+    background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+    background-size: cover;    
+    width: 3330px;
+    height: 530px;
+    margin-left: 0px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+    }
+    .letcon{
+    margin-left: 130px;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: black;
+    height: 52px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: lavender;
+    font-weight:bolder
+    }
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+
+    .thirdhalf{
+        width: 470px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+    
+    
+    .last{
+
+        width: 400px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 25%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 590px;
+        height: 140px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        position: fixed;
+        top:0;
+        z-index:100;
+    }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 90px;
+        width: 90px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 590px;
+        height: 500px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 570px;
+    height: 800px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 0px;
+     flex-direction: row;
+     width: 100px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 00px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+    letter-spacing: 0px;
+    margin-left: 100px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+
+
+
+@media only screen 
+  and (min-device-width: 335px) 
+  and (max-device-width: 435px) 
+  { 
+      
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    .fourthhalf{
+    margin-top: 30px;  
+    display: flex;
+    flex-direction: column;
+    background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+    background-size: cover;    
+    width: 3330px;
+    height: 530px;
+    margin-left: 0px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    
+    }
+    .letcon{
+    margin-left: 130px;
+    font-size: 15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: black;
+    height: 52px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    color: lavender;
+    font-weight:bolder
+    }
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+
+    .thirdhalf{
+        width: 470px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+    
+    
+    .last{
+
+        width: 400px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 25%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 590px;
+        height: 140px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        position: fixed;
+        top:0;
+        z-index:100;
+    }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 20px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 90px;
+        width: 90px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 590px;
+        height: 500px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 570px;
+    height: 800px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 0px;
+     flex-direction: row;
+     width: 100px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 00px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 34px;
+    letter-spacing: 0px;
+    margin-left: 100px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+
+
+@media only screen 
+  and (min-device-width: 435px) 
+  and (max-device-width: 535px) 
+  { 
+
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    .fourthhalf{
+        margin-top: 30px;  
+        display: flex;
+            flex-direction: column;
+        background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+        background-size: cover;    
+        width: 500px;
+            height: 530px;
+            margin-left: 0px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        .letcon{
+        margin-left: 130px;
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border: 2px solid black;
+        display: inline-block;
+        background-color: black;
+        height: 52px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        color: lavender;
+        font-weight:bolder
+        }
+        
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+    .thirdhalf{
+        width: 570px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+    .last{
+
+        width: 230px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 30%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 690px;
+        height: 100px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        position: fixed;
+        top:0;
+        z-index:100;
+    }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 25px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 100px;
+        width: 100px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 690px;
+        height: 330px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 690px;
+    height: 700px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 50px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 50px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 150px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 29px;
+    letter-spacing: 4px;
+    margin-left: 150px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: black
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+
+
+
+   @media only screen 
+  and (min-device-width: 536px) 
+  and (max-device-width: 635px) 
+   { 
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    
+    
+    .fourthhalf{
+        margin-top: 30px;  
+        display: flex;
+            flex-direction: column;
+        background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+        background-size: cover;    
+        width: 560px;
+            height: 530px;
+            margin-left: 0px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        .letcon{
+        margin-left: 130px;
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border: 2px solid black;
+        display: inline-block;
+        background-color: black;
+        height: 52px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        color: lavender;
+        font-weight:bolder
+        }
+    
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+    
+    .thirdhalf{
+        width: 570px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+    .last{
+
+        width: 230px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 35%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 780px;
+        height: 120px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+          
+    }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 40px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 120px;
+        width: 120px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 710px;
+        height: 400px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 710px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    margin-left: 200px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+/* Portrait */
+@media only screen 
+  and (min-device-width: 635px) 
+  and (max-device-width: 735px) 
+  { 
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    
+    .fourthhalf{
+        margin-top: 30px;  
+        display: flex;
+            flex-direction: columrow;
+        background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+        background-size: cover;    
+        width: 650px;
+            height: 330px;
+            margin-left: 0px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        .letcon{
+        margin-left: 130px;
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border: 2px solid black;
+        display: inline-block;
+        background-color: black;
+        height: 52px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        color: lavender;
+        font-weight:bolder
+        }
+    
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+    
+    .thirdhalf{
+        width: 650px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+
+    .last{
+
+        width: 230px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 25%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 780px;
+        height: 120px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+          }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 40px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 120px;
+        width: 120px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 710px;
+        height: 400px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 710px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    margin-left: 200px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+
+ }
+
+/* Landscape */
+@media only screen 
+  and (min-device-width: 739px) 
+  and (max-device-width: 806px) 
+ { 
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    
+
+        .fourthhalf{
+        margin-top: 30px;  
+        display: flex;
+            flex-direction: row;
+        background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+        background-size: cover;    
+        width: 806px;
+            height: 530px;
+            margin-left: 0px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        .letcon{
+        margin-left: 130px;
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border: 2px solid black;
+        display: inline-block;
+        background-color: black;
+        height: 52px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        color: lavender;
+        font-weight:bolder
+        }
+    
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+
+    .thirdhalf{
+        width: 650px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+
+    .last{
+
+        width: 590px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 25%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 780px;
+        height: 120px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+          }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 40px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 120px;
+        width: 120px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 710px;
+        height: 400px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 710px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    margin-left: 200px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+
+@media only screen 
+  and (min-device-width: 835px) 
+  and (max-device-width: 1006px) 
+ { 
+
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    
+    .fourthhalf{
+        margin-top: 30px;  
+        display: flex;
+            flex-direction: row;
+        background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+        background-size: cover;    
+        width: 946px;
+            height: 530px;
+            margin-left: 0px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        .letcon{
+        margin-left: 130px;
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border: 2px solid black;
+        display: inline-block;
+        background-color: black;
+        height: 52px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        color: lavender;
+        font-weight:bolder
+        }
+    
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+
+    .thirdhalf{
+        width: 650px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+    .last{
+
+        width: 600px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 25%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 950px;
+        height: 120px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+          }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 40px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 120px;
+        width: 120px;
+        padding: 20px;
+    }
+    
+    
+    .firstimg{
+        width: 710px;
+        height: 400px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 710px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    margin-left: 200px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+
+@media only screen 
+  and (min-device-width: 1035px) 
+  and (max-device-width: 1206px) 
+ { 
+
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    
+    .thirdhalf{
+        width: 650px;  
+        height: 790px;
+        background-color: cadetblue;
+    margin-top: 30px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 40px;
+    background-image: url(imageedit_7_2461033176.png);
+    background-size: cover;
+    color: cornsilk;
+    font-size: 23px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .textth{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 0px;
+        font-size: 12px;
+        flex-flow: row;
+        -ms-flex-align: center;
+        margin-top: 100px;
+        margin-right: 0px;
+    }
+    .txt{
+        display: flex;
+        color: cornsilk;
+        font-weight: 900;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        margin-left: 60px;
+        font-size: 15px;
+        flex-direction: column;
+    }
+
+    .fourthhalf{
+        margin-top: 30px;  
+        display: flex;
+            flex-direction: row;
+        background-image: url(adam-solomon-WHUDOzd5IYU-unsplash.png);
+        background-size: cover;    
+        width: 806px;
+            height: 530px;
+            margin-left: 0px;
+            border-bottom-left-radius: 20px;
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+        .letcon{
+        margin-left: 130px;
+        font-size: 15px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        border: 2px solid black;
+        display: inline-block;
+        background-color: black;
+        height: 52px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        color: lavender;
+        font-weight:bolder
+        }
+    
+    .fb{
+        margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(dawid-sokolowski-rqnaRQCEVsE-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    }
+    .fb:hover{
+      
+        width: 230px;
+        height: 290px ;
+        background-image: url(cooltext396128069271633.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+    
+    .ig{ margin-top: 40px;
+        margin-left: 90px;
+        width: 160px;
+        height: 190px;
+        background-color: lightsteelblue;
+    background-image: url(alexander-shatov-SX3RyfGM8-s-unsplash.jpg);
+    background-size: cover;
+    border-bottom-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+    
+    }
+    .ig:hover{
+      
+        width: 230px;
+        height: 290px ;
+                background-image: url(cooltext396128570894676.png);
+        background-size: 90%;
+        background-repeat: no-repeat;
+    background-color:black;
+    animation-name: igram;
+    transition-delay: 2s;
+    transition-property: width, height;
+    transition-duration: 2s;
+    transition-delay: 0s;
+    
+    }
+
+
+
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 780px;
+        height: 120px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+          }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 60px;
+    margin-left: 40px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 120px;
+        width: 120px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 710px;
+        height: 400px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 710px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 80px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    margin-left: 200px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+}
+
+
+
+
+/* ----------- iPhone X ----------- */
+
+/* Portrait and Landscape */
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) 
+  and (-webkit-min-device-pixel-ratio: 3) { 
+    .login{
+        margin-bottom: 30px ;
+    margin-left: 50px;
+    vertical-align: 10px;
+    }
+    .signup{
+        margin-bottom: 30px ;
+    margin-right:10px;
+    vertical-align: 10px;
+    width: 48px;
+    height: 48px;
+    }
+    
+    .last{
+
+        width: 400px;
+        background-color: #333333;
+        left: 0;
+        bottom: 0;
+        width: 25%;
+        color: white;
+        text-align: center;
+        position: fixed;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+
+    body{
+        background-color: lightslategray;
+    }
+    .header{
+        background-color:lightgrey;
+        width: 360px;
+        height: 100px;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+          }
+    .img{
+        background-color: lightslategrey;
+        }
+    .headlist{
+        display: inline;
+        vertical-align: 67px;
+    margin-left: 10px;
+    color: black;
+    font-weight: bolder;
+    font-family: sans-serif;
+    font-size: 14px;
+    
+    }
+    .headlist:hover{
+        color: mediumslateblue;
+        cursor: pointer;
+    }
+    .logo{
+        height: 80px;
+        width: 80px;
+        padding: 20px;
+    }
+    
+    .firstimg{
+        width: 410px;
+        height: 300px;
+        border-bottom-left-radius: 310px;
+        border-bottom-right-radius: 310px;
+        }
+    .secondHalf{
+    width: 410px;
+    height: 600px;
+    background-color: lightseagreen;
+    border-top-left-radius: 310px;
+    border-top-right-radius: 310px;
+    background-image: url(jeshoots-com-eCktzGjC-iU-unsplash.jpg);
+    background-size: cover;
+       }
+    
+    .codbod{
+    display: flex;
+        margin-left: 10px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+    }
+    .codbod2{
+        display: flex;
+        margin-left: 10px;
+     flex-direction: row;
+     width: 120px;
+     height: 190px;
+     
+     
+    }
+    hr{
+        width: 320px;
+    margin-right: 60px;    
+    }
+    .codw{
+        font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    margin-left: 40px;
+    margin-top: 34px;
+    font-weight: lighter;
+    vertical-align: 89px;
+    color: white
+    }
+    
+    h1:hover{
+        color: lightslategray;
+        cursor: pointer;
+    }
+    
+
+
+
+
+
+}
+
+/* Portrait */
